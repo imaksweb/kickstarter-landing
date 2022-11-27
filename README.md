@@ -1,4 +1,10 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Kickstarter landing
+Fully responsive layout was made by using CSS Grid and Flexbox (mobiles, tablets, laptops, high screens) according to BEM.
+
+### Stack:
+ - HTML5
+ - SASS(SCSS)
+ - JS
+
+Design of the landing page you could find [here](https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655%3A32).
+- [DEMO LINK](https://imaksweb.github.io/kickstarter-landing/)
